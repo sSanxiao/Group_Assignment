@@ -2,13 +2,16 @@ Options
 1: Antimicrobial resistance(statistics)
 Examples:Cefalexin,Norfloxacin,Isoniazid
 Data Source(Official):SmiNet,Swedres-Svarm(extend to North Europe),Tuberculosis Register
-Methods:basic statistics，trend analyse, data visualization，crosstab, multivariate regression models, time series analysis, Chi-Squared Test,Logistic
+Methods:basic statistics，trend analyse, data visualization，crosstab,
+multivariate regression models, time series analysis, Chi-Squared Test,Logistic
 Knowledge:Probability Theory and Mathematical Statistics, Linear Algebra
 
 2：Analyse And Prediction(Machine Learning)
-Examples:Neonatal mortality projections,Association analysis of environmental factors and Alzheimer's disease, Spatial prediction of infectious disease outbreaks,Health Insurance Claims Fraud Detection
+Examples:Neonatal mortality projections,Association analysis of environmental factors and Alzheimer's disease, 
+Spatial prediction of infectious disease outbreaks,Health Insurance Claims Fraud Detection
 Data Sources(Official):WHO, CDC, Public Health Databases(GIDEON, ProMED),Epidemiological database
-Methods:Logistic Regression, Random Forests, Anomaly Detection Algorithms (e.g. Isolated Forests), XGBoost, SVM, Geospatial Machine Learning Models, Multivariate Regression Models, Neural Networks
+Methods:Logistic Regression, Random Forests, Anomaly Detection Algorithms (e.g. Isolated Forests), 
+XGBoost, SVM, Geospatial Machine Learning Models, Multivariate Regression Models, Neural Networks
 Knowledge:Machine Learning(Python),Neural Networks, more basic statistics
 
 3:Early diagnosis of cancer(Based on Qilu Wang's research and thesis）
